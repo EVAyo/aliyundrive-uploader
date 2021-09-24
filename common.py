@@ -43,6 +43,7 @@ DATA = {
 
 NUM = 0
 
+
 def suicide(code=0):
     os._exit(code)
 
